@@ -21,5 +21,5 @@ El programa incluye un menú interactivo para navegar entre las diferentes opcio
 
 ## Authors
 
-* **Javier Alonso** - *Initial work* - [PurpleBooth](https://github.com/Javier-Alonso)
+* **Javier Alonso** - *Initial work* - [JavierAlonso](https://github.com/Javier-Alonso)
 
