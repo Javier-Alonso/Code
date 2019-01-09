@@ -14,7 +14,7 @@ cd build
 make
 ```
 ```
-./GR fichero.gr
+./GR input.grammar output.grammar
 ```
 
 El programa principal recibe el fichero de la gramática por la línea de comandos.
