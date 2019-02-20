@@ -1,5 +1,0 @@
-/home/javieralonso/AyEDA/practica1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/javieralonso/AyEDA/practica1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/javieralonso/AyEDA/practica1/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-/home/javieralonso/AyEDA/practica1/cmake-build-debug/src/CMakeFiles/target_name.dir
-/home/javieralonso/AyEDA/practica1/cmake-build-debug/src/CMakeFiles/edit_cache.dir
