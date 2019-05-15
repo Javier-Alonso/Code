@@ -35,7 +35,7 @@ cd build
 make
 ```
 ```
-./main $TreeSize $nTests
+./main $tamañoArbol $numeroPruebas
 ```
 
 ## Nota
